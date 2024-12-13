@@ -7,3 +7,7 @@
 @else
     <h1>I am child</h1>
 @endif
+
+@for($i=0;$i<10;$i++)
+<button>Submit{{$i}}</button>
+@endfor
