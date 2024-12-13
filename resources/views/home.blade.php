@@ -11,3 +11,14 @@
 @for($i=0;$i<10;$i++)
 <button>Submit{{$i}}</button>
 @endfor
+
+<ul>
+    @foreach($users as $item)
+        <li>{{$item['fname']}}</li>
+
+
+    @endforeach
+
+
+</ul>
+
