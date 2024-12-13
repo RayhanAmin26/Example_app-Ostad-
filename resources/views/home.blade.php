@@ -22,5 +22,5 @@
 
 </ul>
 
-<img src="https://images.app.goo.gl/7YHjWG7xcaRLVMLP7"/>
+<img src="{{asset('https://images.app.goo.gl/7YHjWG7xcaRLVMLP7')}}"/>
 
